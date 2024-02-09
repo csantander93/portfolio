@@ -92,6 +92,10 @@ html body nav ul li a {
     border-radius: 5px;
 }
 
+.btn:hover {
+    background-color: #06868f;
+}
+
 a.btn {
     color: #fff;
 }
